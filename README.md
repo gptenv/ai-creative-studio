@@ -10,4 +10,4 @@ The app is currently entirely within this file: [./src/AICreativeStudio.tsx](./s
 
 Licensed by the standard MIT License.
 
-Copyright 2025 Jeremy Carter <jeremy@jeremycarter>, Claude Sonnet 4 (web chat LLM) <https://claude.ai>
+Copyright 2025 Jeremy Carter <jeremy@jeremycarter.ca>, Claude Sonnet 4 (web chat LLM) <https://claude.ai>

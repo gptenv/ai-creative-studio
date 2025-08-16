@@ -1,8 +1,10 @@
 An AI App designed and implemented by Claude Sonnet 4 (with Extended Thinking feature switched on nearly the whole time), with some minimal prompting by Jeremy Carter, and intended to be run as a Claude.ai AI Artifact in the Artifacts Preview pane on https://claude.ai while having the AI Artifacts feature toggled on in your settings.
 
-AI Creative Studio v0.1.x is published as a Claude.ai AI App artifact publicly here: https://claude.ai/public/artifacts/d57fb009-cb96-46f7-b923-37d147e2eede
+AI Creative Studio v0.1.x (Claude.ai AI Artifact Web App): https://claude.ai/public/artifacts/3919cdae-d6c8-45e9-8b5d-64c56b0c1225
 
-Follow the link above if you want to try it out. :)
+(previous version) - AI Creative Studio v0.1.x is published as a Claude.ai AI App artifact publicly here: https://claude.ai/public/artifacts/d57fb009-cb96-46f7-b923-37d147e2eede
+
+Follow the link above the link above if you want to try it out. :)
 
 It's some different kinds of `window.claude.completion` agents, with managed context windows, who will collaborate together on creative kinds of response outputs to your prompts, such as writing stories or other. Choose between several different kinds of Claude AI Agents and choose multiple ones and have them collaborate on a single prompt response output, or have them each giving their own independent outputs one-after-another for your prompts. Conversation state is managed and all agents have context windows, and the prompts happen within a proper stateful chat conversation, similar as chatting with Claude directly in an actual conversation thread on the claude.ai web or desktop or mobile chat apps.
 
